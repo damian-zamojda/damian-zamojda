@@ -1,16 +1,19 @@
-Financial and management accountant with experience in use of advanced data analysis tools. Skilled in processes automatisation, project management and trainings delivery. Graduate at the University of Warsaw, [master's degree](https://github.com/damian-zamojda/Constitutional-compliance-and-FDI-in-low-income-countries.git)
+Financial and management accountant with experience in use of advanced data analysis tools. 
+Skilled in processes automatisation, project management and trainings delivery. 
+Graduate Economics and Data Science at the University of Warsaw, [master's degree](https://github.com/damian-zamojda/Constitutional-compliance-and-FDI-in-low-income-countries.git)
 
-<!--
-**damian-zamojda/damian-zamojda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Areas
+- Consulting
+- Digital transformation
+- Insurance industry
+- Machine learning
 
-Here are some ideas to get you started:
+### Technologies & lanugages
+- **Advanced:** Alteryx
+- **Semi-advanced:** R
+- **Intermediate:** Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Natural lanugages
+- **Mothertongue:** Polish
+- **Professional:** English
+- **Communicative:** Spanish
