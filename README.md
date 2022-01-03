@@ -5,7 +5,7 @@ Graduate Economics and Data Science at the University of Warsaw, [master's degre
  ### Areas
 - Consulting
 - Digital transformation
-- Insurance industry
+- Financial institution industry
 - Machine learning
 
 ### Technologies & lanugages
