@@ -10,8 +10,8 @@ Graduate Economics and Data Science at the University of Warsaw, [master's degre
 
 ### Technologies & lanugages
 - **Advanced:** Alteryx
-- **Semi-advanced:** R, PowerBi
-- **Intermediate:** Python, UiPath, SQL, TeX
+- **Semi-advanced:** R, PowerBi, VBA
+- **Academic experience:** Python, UiPath, SQL, TeX
 
 ### Natural languages
 - **Mothertongue:** Polish
